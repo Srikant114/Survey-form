@@ -1,7 +1,7 @@
 ### Customer Feedback Survey Form
 
 #### Description
-    User-friendly Customer Feedback Survey Form using HTML and CSS to gather valuable insights and opinions from your audience.
+User-friendly Customer Feedback Survey Form using HTML and CSS to gather valuable insights and opinions from your audience.
 
 #### Stack used:
  - HTML
